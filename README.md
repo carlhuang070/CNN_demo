@@ -1,1 +1,1 @@
-# CNN_demo
+# RNN_basic_demo
